@@ -33,3 +33,4 @@ Hawaiian: $11
 - BLT Sandwich: $7
 - Turkey Avocado Wrap: $9
 - Veggie Wrap: $8
+- Classic Cheeseburger: $10
