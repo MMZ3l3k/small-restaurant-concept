@@ -44,6 +44,7 @@ Hawaiian: $11
 - Apple Pie: $5
 - Brownie Sundae: $6
 - . Coffee: $2
+- Tea: $2
 
 
 
