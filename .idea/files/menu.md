@@ -52,6 +52,7 @@ Hawaiian: $11
 - Smoothie: $5
 - Milkshake: $5
 - Beer: $6
+- Wine: $7
 
 
 
