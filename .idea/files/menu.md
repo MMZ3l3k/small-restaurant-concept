@@ -40,3 +40,14 @@ Hawaiian: $11
 - Veggie Burger: $9
 - Chocolate Cake: $6
 - Tiramisu: $7
+- Cheesecake: $7
+
+
+
+
+
+
+
+
+
+
