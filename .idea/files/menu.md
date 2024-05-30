@@ -18,3 +18,4 @@ Hawaiian: $11
 - Penne Arrabiata: $9
 - Lasagna: $12
 - Carbonara: $11
+- Caesar Salad: $8
