@@ -25,3 +25,5 @@ Hawaiian: $11
 - Spinach Salad: $7
 - Garlic Bread: $4
 - Mozzarella Sticks: $6
+- Bruschetta: $5
+- Fried Calamari: $8
