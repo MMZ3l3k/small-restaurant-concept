@@ -48,6 +48,7 @@ Hawaiian: $11
 - Soda: $3
 - Lemonade: $3
 - Iced Tea: $3
+- Orange Juice: $4
 
 
 
