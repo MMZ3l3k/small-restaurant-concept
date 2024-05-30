@@ -50,6 +50,7 @@ Hawaiian: $11
 - Iced Tea: $3
 - Orange Juice: $4
 - Smoothie: $5
+- Milkshake: $5
 
 
 
