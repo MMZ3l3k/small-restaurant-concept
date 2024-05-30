@@ -35,3 +35,4 @@ Hawaiian: $11
 - Veggie Wrap: $8
 - Classic Cheeseburger: $10
 - Bacon Cheeseburger: $11
+- Mushroom Swiss Burger: $11
