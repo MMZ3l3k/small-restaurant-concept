@@ -20,3 +20,4 @@ Hawaiian: $11
 - Carbonara: $11
 - Caesar Salad: $8
 -  Greek Salad: $7
+-  Caprese Salad: $8
