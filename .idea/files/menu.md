@@ -7,3 +7,4 @@ Pizza
 - Veggie: $9
 - Burger: $9
 - BBQ Chicken: $12
+Hawaiian: $11
