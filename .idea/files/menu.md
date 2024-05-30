@@ -8,3 +8,4 @@ Pizza
 - Burger: $9
 - BBQ Chicken: $12
 Hawaiian: $11
+-  Meat Lovers: $13
