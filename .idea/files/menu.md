@@ -36,3 +36,4 @@ Hawaiian: $11
 - Classic Cheeseburger: $10
 - Bacon Cheeseburger: $11
 - Mushroom Swiss Burger: $11
+- BBQ Burger: $12
