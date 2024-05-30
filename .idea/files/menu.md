@@ -30,3 +30,4 @@ Hawaiian: $11
 - Stuffed Mushrooms: $7
 - Club Sandwich: $9
 - Chicken Panini: $8
+- BLT Sandwich: $7
