@@ -51,6 +51,7 @@ Hawaiian: $11
 - Orange Juice: $4
 - Smoothie: $5
 - Milkshake: $5
+- Beer: $6
 
 
 
