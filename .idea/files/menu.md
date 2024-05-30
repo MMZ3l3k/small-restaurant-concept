@@ -29,3 +29,4 @@ Hawaiian: $11
 - Fried Calamari: $8
 - Stuffed Mushrooms: $7
 - Club Sandwich: $9
+- Chicken Panini: $8
