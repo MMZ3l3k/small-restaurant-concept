@@ -22,3 +22,4 @@ Hawaiian: $11
 -  Greek Salad: $7
 -  Caprese Salad: $8
 - Cobb Salad: $9
+- Spinach Salad: $7
