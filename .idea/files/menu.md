@@ -28,3 +28,4 @@ Hawaiian: $11
 - Bruschetta: $5
 - Fried Calamari: $8
 - Stuffed Mushrooms: $7
+- Club Sandwich: $9
