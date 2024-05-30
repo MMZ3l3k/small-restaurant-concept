@@ -39,3 +39,4 @@ Hawaiian: $11
 - BBQ Burger: $12
 - Veggie Burger: $9
 - Chocolate Cake: $6
+- Tiramisu: $7
