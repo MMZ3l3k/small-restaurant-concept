@@ -16,3 +16,4 @@ Hawaiian: $11
 - . Spaghetti Bolognese: $10
 -  Fettuccine Alfredo: $11
 - Penne Arrabiata: $9
+- Lasagna: $12
