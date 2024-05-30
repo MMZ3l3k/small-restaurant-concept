@@ -41,6 +41,7 @@ Hawaiian: $11
 - Chocolate Cake: $6
 - Tiramisu: $7
 - Cheesecake: $7
+- Apple Pie: $5
 
 
 
