@@ -31,3 +31,4 @@ Hawaiian: $11
 - Club Sandwich: $9
 - Chicken Panini: $8
 - BLT Sandwich: $7
+- Turkey Avocado Wrap: $9
