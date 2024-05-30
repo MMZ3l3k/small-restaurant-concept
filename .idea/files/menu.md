@@ -19,3 +19,4 @@ Hawaiian: $11
 - Lasagna: $12
 - Carbonara: $11
 - Caesar Salad: $8
+-  Greek Salad: $7
