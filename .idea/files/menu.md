@@ -45,6 +45,7 @@ Hawaiian: $11
 - Brownie Sundae: $6
 - . Coffee: $2
 - Tea: $2
+- Soda: $3
 
 
 
