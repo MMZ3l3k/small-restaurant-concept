@@ -46,6 +46,7 @@ Hawaiian: $11
 - . Coffee: $2
 - Tea: $2
 - Soda: $3
+- Lemonade: $3
 
 
 
