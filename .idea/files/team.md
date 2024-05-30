@@ -1,5 +1,5 @@
 Team
 
 - Janek KK
-- Mateusz M
-- Wojtek W
+- Mateusz MM
+- Wojtek WW
