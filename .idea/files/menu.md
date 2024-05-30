@@ -23,3 +23,4 @@ Hawaiian: $11
 -  Caprese Salad: $8
 - Cobb Salad: $9
 - Spinach Salad: $7
+- Garlic Bread: $4
