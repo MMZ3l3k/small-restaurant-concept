@@ -37,3 +37,4 @@ Hawaiian: $11
 - Bacon Cheeseburger: $11
 - Mushroom Swiss Burger: $11
 - BBQ Burger: $12
+- Veggie Burger: $9
