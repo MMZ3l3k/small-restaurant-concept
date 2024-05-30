@@ -43,6 +43,7 @@ Hawaiian: $11
 - Cheesecake: $7
 - Apple Pie: $5
 - Brownie Sundae: $6
+- . Coffee: $2
 
 
 
