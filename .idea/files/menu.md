@@ -9,3 +9,4 @@ Pizza
 - BBQ Chicken: $12
 Hawaiian: $11
 -  Meat Lovers: $13
+- Supreme: $14
