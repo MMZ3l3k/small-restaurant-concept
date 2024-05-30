@@ -12,3 +12,4 @@ Hawaiian: $11
 - Supreme: $14
 - Four Cheese: $10
 - Mediterranean: $11
+- Buffalo Chicken: $12
