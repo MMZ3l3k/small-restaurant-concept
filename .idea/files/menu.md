@@ -15,3 +15,4 @@ Hawaiian: $11
 - Buffalo Chicken: $12
 - . Spaghetti Bolognese: $10
 -  Fettuccine Alfredo: $11
+- Penne Arrabiata: $9
