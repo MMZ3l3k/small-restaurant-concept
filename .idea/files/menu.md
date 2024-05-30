@@ -32,3 +32,4 @@ Hawaiian: $11
 - Chicken Panini: $8
 - BLT Sandwich: $7
 - Turkey Avocado Wrap: $9
+- Veggie Wrap: $8
