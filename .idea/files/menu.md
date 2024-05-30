@@ -24,3 +24,4 @@ Hawaiian: $11
 - Cobb Salad: $9
 - Spinach Salad: $7
 - Garlic Bread: $4
+- Mozzarella Sticks: $6
