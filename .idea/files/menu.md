@@ -10,3 +10,4 @@ Pizza
 Hawaiian: $11
 -  Meat Lovers: $13
 - Supreme: $14
+- Four Cheese: $10
