@@ -38,3 +38,4 @@ Hawaiian: $11
 - Mushroom Swiss Burger: $11
 - BBQ Burger: $12
 - Veggie Burger: $9
+- Chocolate Cake: $6
