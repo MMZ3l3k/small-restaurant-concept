@@ -17,3 +17,4 @@ Hawaiian: $11
 -  Fettuccine Alfredo: $11
 - Penne Arrabiata: $9
 - Lasagna: $12
+- Carbonara: $11
