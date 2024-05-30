@@ -34,3 +34,4 @@ Hawaiian: $11
 - Turkey Avocado Wrap: $9
 - Veggie Wrap: $8
 - Classic Cheeseburger: $10
+- Bacon Cheeseburger: $11
