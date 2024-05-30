@@ -27,3 +27,4 @@ Hawaiian: $11
 - Mozzarella Sticks: $6
 - Bruschetta: $5
 - Fried Calamari: $8
+- Stuffed Mushrooms: $7
